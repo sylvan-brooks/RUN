@@ -154,16 +154,20 @@
 | 2025-11-21 | 🇸🇮 [斯洛文尼亚](docs/europe/slovenia.md) | 🆕 新开 | 新开数字游民许可；蓝卡门槛降至平均工资 1 倍 |
 | 2026-01-01 | 🇧🇬 [保加利亚](docs/europe/bulgaria.md) | 🔄 变化 | 改用欧元（2025 年已完整加入申根） |
 | 2026-01-08 | 🇫🇮 [芬兰](docs/europe/finland.md) | 🔄 变化 | 永居新规：年收入 ≥ EUR 40,000 可 4 年申请 |
-| 2026 | 🇵🇹 [葡萄牙](docs/europe/portugal.md) | 🔺 收紧 | 国籍法改革：入籍从 5 年改为一般 10 年 |
 | 2026 | 🇦🇩 [安道尔](docs/europe/andorra.md) | 🔺 收紧 | 被动居留投资门槛涨到 EUR 100 万 + 年度配额 |
 | 2026 | 🇸🇪 [瑞典](docs/europe/sweden.md) | 🔺 收紧 | 工作许可须达中位工资 90%（SEK 34,470/月） |
 | 2026 | 🇷🇴 [罗马尼亚](docs/europe/romania.md) | 🔄 变化 | 工作移民改为 WorkinRomania 平台 + D/AM 签证 |
 | 2026-04-27 | 🇵🇱 [波兰](docs/europe/poland.md) | 🔄 变化 | 居留申请全部改为 MOS 线上递交 |
 | 2026-05 | 🇮🇸 [冰岛](docs/europe/iceland.md) | ⛔ 关闭 | 远程工作长期签证废止 |
+| 2026-05-19 | 🇵🇹 [葡萄牙](docs/europe/portugal.md) | 🔺 收紧 | 国籍法改革生效：入籍一般 10 年（欧盟/葡语国家 7 年），只适用生效后递交的申请 |
+| 2026-06-01 | 🇲🇾 [马来西亚](docs/global/malaysia.md) | 🔺 收紧 | 就业准证（EP）月薪门槛上调：EP III RM 3,000 → 5,000，EP II 5,000 → 10,000，EP I 10,000 → 20,000 |
 | 2026-06-30 | 🇨🇦 [加拿大](docs/global/canada.md) | ⛔ 关闭 | 联邦创业签证（SUV）完全暂停 |
 | 2026-06-30 | 🇰🇷 [韩国](docs/global/south-korea.md) | 🆕 新开 | F-1-D 数字游民签证转为正式签证，最长 3 年 |
 | 2026-09-15 | 🇱🇻 [拉脱维亚](docs/europe/latvia.md) | ⛔ 关闭 | 新《移民法》关闭买房居留和银行次级债居留 |
 | 2026-09-30 | 🇺🇸 [美国](docs/global/usa.md) | 🔄 变化 | 法院阻止执行 H-1B 10 万美元附加费；抽签改为按工资加权 |
+| 2026-10-28 | 🇬🇧 [英国](docs/europe/united-kingdom.md) | 🔄 变化 | 预算宣布：HPI 扩到全球前 150 大学；高合规大学毕业生的 Graduate 签证保留 2 年（细则未出） |
+| 2026-11-01 | 🇲🇾 [马来西亚](docs/global/malaysia.md) | 🔺 收紧 | DE Rantau 暂停新申请一个月；12-01 起科技类门槛 USD 24,000 → 36,000，最长可住 4 年 |
+| 2027-01-01 | 🇬🇧 [英国](docs/europe/united-kingdom.md) | 🔺 收紧 | Graduate 签证（非博士）从 2 年缩短为 18 个月，按递交日算 |
 | 咨询中 | 🇬🇧 [英国](docs/europe/united-kingdom.md) | 🔺 收紧 | 永居拟从 5 年改为 10 年（earned settlement） |
 <!-- /AUTO -->
 

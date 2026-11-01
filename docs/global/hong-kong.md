@@ -43,8 +43,8 @@
 > **高收入或名校毕业即可申请，无需工作 offer。**
 
 <table>
-<tr><td width="33%" valign="top"><sub>A 类</sub><br><b>上年收入 ≥ HKD 250 万，首签 3 年</b></td><td width="33%" valign="top"><sub>B 类</sub><br><b>指定大学本科 + 近 5 年 3 年经验，2 年</b></td><td width="33%" valign="top"><sub>C 类</sub><br><b>指定大学近 5 年毕业，每年 1 万名额</b></td></tr>
-<tr><td width="33%" valign="top"><sub>费用</sub><br><b>HKD 600 + 1,300/人</b></td><td width="33%" valign="top"><sub>续签</sub><br><b>需有工作或业务</b></td><td width="33%" valign="top"></td></tr>
+<tr><td width="33%" valign="top"><sub>A 类</sub><br><b>上年收入 ≥ HKD 250 万，首签 3 年</b></td><td width="33%" valign="top"><sub>B 类</sub><br><b>指定大学学士 + 近 5 年 3 年经验，2 年</b></td><td width="33%" valign="top"><sub>C 类</sub><br><b>指定大学近 5 年学士毕业，每年 1 万名额</b></td></tr>
+<tr><td width="33%" valign="top"><sub>学历</sub><br><b>B/C 类只认学士；只有硕士/博士不符合</b></td><td width="33%" valign="top"><sub>费用</sub><br><b>HKD 600 + 1,300/人</b></td><td width="33%" valign="top"><sub>续签</sub><br><b>需有工作或业务</b></td></tr>
 </table>
 
 <table><tr>
@@ -75,6 +75,7 @@ flowchart LR
 > [!WARNING]
 > **注意**
 > - 2026 起续签核查社保和税表
+> - 指定大学的分校、延伸学院、持续教育学院颁发的学历不接受
 
 <sub>[↑ 回到顶部](#top)</sub>
 
@@ -122,7 +123,7 @@ flowchart LR
 
 | 计划 | 要点 |
 |---|---|
-| **高端人才通行证（TTPS）** | A 类：上一年应税收入 ≥ HKD 250 万；B 类：全球指定约 200 所大学本科 + 近 5 年内 3 年工作经验；C 类：上述大学近 5 年毕业、经验不足 3 年（**每年 1 万名额**）；A 类首签 3 年，B/C 类 2 年；**无需工作 offer**，续签时需有工作或业务；约 4 周审批；费用 HKD 600 + 每人 1,300 |
+| **高端人才通行证（TTPS）** | A 类：上一年应税收入 ≥ HKD 250 万；B 类：全球指定约 200 所大学本科 + 近 5 年内 3 年工作经验；C 类：上述大学近 5 年毕业、经验不足 3 年（**每年 1 万名额**）；B/C 类**只认学士学位**，只有硕士/博士不符合；指定大学的**分校**、延伸学院、持续教育学院颁发的学历不接受；A 类首签 3 年，B/C 类 2 年；**无需工作 offer**，续签时需有工作或业务；约 4 周审批；费用 HKD 600 + 每人 1,300 |
 | 优秀人才入境计划（QMAS） | 积分制，无需 offer；配额政策近年调整，以入境处为准 |
 | 内地人才计划（ASMTP） | 内地居民，需香港雇主 offer，首签 3 年或合同期 |
 | 非本地毕业生（IANG） | 香港全日制本科及以上毕业，首签 24 个月，可自由就业，无配额；已扩展到港校大湾区校区毕业生 |
